@@ -1,0 +1,3 @@
+[submodule "Backend/NetGenie-Backend"]
+  path = Backend/NetGenie-Backend
+  url = https://github.com/EbadullahSiddiqi/NetGenie-Backend.git
